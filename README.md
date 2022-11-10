@@ -4,7 +4,7 @@
 
 PROYECTO EN JAVA CON PILAS Y COLAS
 
-DESAROLLADO EN NETBEANS
+DESARROLLADO EN NETBEANS
 
 Proyecto de una calculadora creado en Java que realiza la conversión de una fórmula de números y/o letras a notación polaca inversa, realizando evaluaciones como el balanceo de la fórmula y demás, para luego mostrar con una vista con Jframe la fórmula original, la postfija y el resultado de la notación polaca inversa.
 
